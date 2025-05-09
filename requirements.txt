@@ -1,0 +1,4 @@
+numpy
+pygame
+pillow
+svg.path
