@@ -6,6 +6,9 @@ A Python application that visualizes Fourier series by drawing complex paths usi
 
 This application uses the Fourier transform to break down paths (from SVG images) into rotating vectors (needles) that, when added together, recreate the original path. The visualization shows each needle rotating at different frequencies and amplitudes, with the endpoint tracing the desired shape.
 
+![スクリーンショット 2025-05-06 午後6 45 58](https://github.com/user-attachments/assets/ce3ec281-23d7-405e-a42a-b0193170c985)
+
+
 ## Features
 
 - Parse SVG files to extract path coordinates
